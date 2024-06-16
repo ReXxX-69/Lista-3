@@ -2,7 +2,7 @@
 
 To repozytorium zawiera prosty skrypt do automatyzacji testów endpointów API przy użyciu curl.
 
-Skrypt wysyła żądania HTTP GET do określonych endpointów publicznego API (JSONPlaceholder) za pomocą curl, sprawdza kody statusu HTTP, parsuje odpowiedzi JSON oraz weryfikuje obecność wymaganych kluczy w odpowiedzi.
+Skrypt wysyła żądania HTTP GET do określonych endpointów publicznego API (JSONPlaceholder) za pomocą curl, sprawdza kody statusu HTTP, parsuje odpowiedzi JSON oraz weryfikuje obecność wymaganych kluczy w odpowiedzi.cd C:\Users\Użytkownicy\vdi-terminal\Pulpit\projekt
 
 1. Upewnij się, że masz zainstalowanego Pythona na swoim komputerze.
 2. Zainstaluj curl na swoim komputerze.
